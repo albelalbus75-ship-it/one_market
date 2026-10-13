@@ -1,0 +1,6 @@
+{
+  "name": "دفتر متجري | كاشير ونقاط بيع وإدارة المتاجر",
+  "description": "تطبيق متكامل لإدارة نقاط البيع (POS) والمخزون والعملاء والموردين والتصنيع والحسابات باللغة العربية مع دعم العمل دون اتصال.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

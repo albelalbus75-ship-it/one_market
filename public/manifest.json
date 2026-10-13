@@ -1,0 +1,21 @@
+{
+  "id": "/",
+  "name": "دفتر متجري POS",
+  "short_name": "دفتر متجري",
+  "description": "نظام نقاط بيع وكاشير وإدارة المتاجر المتكامل مع دعم غير متصل",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0f172a",
+  "theme_color": "#059669",
+  "categories": ["business", "finance", "productivity"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
